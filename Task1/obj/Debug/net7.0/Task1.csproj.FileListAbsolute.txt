@@ -1,0 +1,15 @@
+D:\NewGit\C#\HOMEWORK9\Task1\bin\Debug\net7.0\Task1.exe
+D:\NewGit\C#\HOMEWORK9\Task1\bin\Debug\net7.0\Task1.deps.json
+D:\NewGit\C#\HOMEWORK9\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+D:\NewGit\C#\HOMEWORK9\Task1\bin\Debug\net7.0\Task1.dll
+D:\NewGit\C#\HOMEWORK9\Task1\bin\Debug\net7.0\Task1.pdb
+D:\NewGit\C#\HOMEWORK9\Task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
+D:\NewGit\C#\HOMEWORK9\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewGit\C#\HOMEWORK9\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+D:\NewGit\C#\HOMEWORK9\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+D:\NewGit\C#\HOMEWORK9\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+D:\NewGit\C#\HOMEWORK9\Task1\obj\Debug\net7.0\Task1.dll
+D:\NewGit\C#\HOMEWORK9\Task1\obj\Debug\net7.0\refint\Task1.dll
+D:\NewGit\C#\HOMEWORK9\Task1\obj\Debug\net7.0\Task1.pdb
+D:\NewGit\C#\HOMEWORK9\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+D:\NewGit\C#\HOMEWORK9\Task1\obj\Debug\net7.0\ref\Task1.dll
